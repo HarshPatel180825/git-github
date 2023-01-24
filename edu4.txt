@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 firstbranch.modified
+=======
+firstbranch.modified.if you change directly then it not affect on master branch.
+>>>>>>> 180fd52 (modifyings edu4)
